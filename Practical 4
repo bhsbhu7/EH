@@ -1,0 +1,6 @@
+#Nmap
+nmap -sA -T4 www.google.com
+nmap -p22,113,139 scanme.nmap.org
+nmap -sF -T4 www.google.com
+nmap -sN -p21 scanme.nmap.org
+nmap -sx -t4 scanme.nmap.org
