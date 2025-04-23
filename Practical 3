@@ -1,5 +1,6 @@
-#Linux ARP poisoning
+#Linux, ARP poisoning
 tracert www.google.com
 ipconfig
 ping www.google.com
 netstat
+ifconfig
